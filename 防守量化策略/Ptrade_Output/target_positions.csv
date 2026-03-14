@@ -1,0 +1,4 @@
+trade_date,sec_code,module_tag,stop_loss_type,target_weight,stop_loss_price
+2026-03-15,511880.SH,sat_fallback,none,0.2,0
+2026-03-15,512890.SH,core_active,none,0.6,0
+2026-03-15,513630.SH,core_active,none,0.2,0

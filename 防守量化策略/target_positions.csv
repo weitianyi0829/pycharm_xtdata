@@ -1,0 +1,8 @@
+trade_date,sec_code,target_weight,module_tag,stop_loss_type,stop_loss_price
+2026-03-15,512890.SH,0.6,core_active,none,0
+2026-03-15,513630.SH,0.2,core_active,none,0
+2026-03-15,601088.SH,0.04,sat_mode_a,hard,0
+2026-03-15,000900.SZ,0.04,sat_mode_a,hard,0
+2026-03-15,600028.SH,0.04,sat_mode_a,hard,0
+2026-03-15,601288.SH,0.04,sat_mode_a,hard,0
+2026-03-15,000983.SZ,0.04,sat_mode_a,hard,0
